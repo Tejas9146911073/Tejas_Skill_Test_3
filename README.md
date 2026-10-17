@@ -10,9 +10,8 @@
 
 ## 👤 Candidate & Project Information
 
-- **Student Name:** Kaushal Patil
-- **HeroVired Student ID:** Kaushal Patil_13408
-- **Email ID:** patilkaushal89@gmail.com
+- **Student Name:** Tejas Chaudhari
+- **Email ID:** tejaschaudhari272@gmail.com
 - **Assignment Title:** Deploy a Multi-Service Node.js E-commerce Application Using Terraform and Docker
 - **GitHub Repository:** [https://github.com/kaushalpatil205/Deploy-a-Multi-Service-Node.js-E-Commerce-Application-Using-Terraform-and-Docker](https://github.com/kaushalpatil205/Deploy-a-Multi-Service-Node.js-E-Commerce-Application-Using-Terraform-and-Docker)
 - **Docker Hub Profile:** [https://hub.docker.com/u/kaushal2052devops](https://hub.docker.com/u/kaushal2052devops)
